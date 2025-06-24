@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m ElSayed-Fathi a computer engineering Student.<br>👀 I’m interested in technology and anything related, data engineering .<br>🌱 I’m currently learning data engineering , data warehouse ,and data modeling.<br>💞️ I’m looking to collaborate on data engineering, BI or data science projects<br>
+👋 Hi, I’m ElSayed-Fathi a Data Engineer.<br>👀 I’m interested in technology and anything related, data engineering .<br>🌱 I’m currently learning data engineering , data warehouse ,and data modeling.<br>💞️ I’m looking to collaborate on data engineering, BI or data science projects<br>
 
 
 ## 🌐 Socials:
